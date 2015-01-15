@@ -1,0 +1,9 @@
+{
+  "name": "axel-downloader",
+  "title": "axel downloader",
+  "id": "jid1-QmbjCMsOwynfjw",
+  "description": "an addon to download files from axel",
+  "author": "Saeed Moghadam",
+  "license": "MPL 2.0",
+  "version": "0.3"
+}
